@@ -1,11 +1,11 @@
 # Site settings
 author: Cesar Mendoza
-title: 
+title: Trending Movies
 header-img: img/home-bg.png
 email: mendoza.cesar92@gmail.com
 copyright_name: Cesar Mendoza
 description: > # this means to ignore newlines until "baseurl:"
-  
+  OO Ruby portfolio project
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  mendozacm
